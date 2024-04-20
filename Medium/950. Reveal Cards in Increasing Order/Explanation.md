@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-## **Instructions**
+### **Instructions**
 
 You are given an integer array deck. There is a deck of cards where every card has a unique integer. The integer on the ith card is deck[i].
 
