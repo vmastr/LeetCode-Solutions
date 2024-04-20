@@ -19,7 +19,7 @@ Note that the first entry in the answer is considered to be the top of the deck.
 
 Example 1:
 
-Input: deck = [17,13,11,2,3,5,7]
+'''Input: deck = [17,13,11,2,3,5,7]'''
 Output: [2,13,3,11,5,17,7]
 Explanation: 
 We get the deck in the order [17,13,11,2,3,5,7] (this order does not matter), and reorder it.
