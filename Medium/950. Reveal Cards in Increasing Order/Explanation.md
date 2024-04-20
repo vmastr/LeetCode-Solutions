@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**Instructions**
+## **Instructions**
 
 You are given an integer array deck. There is a deck of cards where every card has a unique integer. The integer on the ith card is deck[i].
 
@@ -44,5 +44,5 @@ Constraints:
 1 <= deck[i] <= 106
 All the values of deck are unique.
 
-**Solution**
+### **Solution**
 
